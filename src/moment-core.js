@@ -79,4 +79,4 @@ moment.relativeTimeThreshold = relativeTimeThreshold;
 moment.calendarFormat        = getCalendarFormat;
 moment.prototype             = fn;
 
-export default moment;
+module.exports = moment;
